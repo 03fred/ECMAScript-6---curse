@@ -1,3 +1,5 @@
+
+
 //Fat arrow
 //with params
 var x = (a,b) => a+""+b;
